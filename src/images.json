@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "2001 A Space Odyssey",
+        "image": "../../public/assets/images/2001.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Star Wars",
+        "image": "../../public/assets/images/c3por2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Close Encounters Of The Third Kind",
+        "image": "../../public/assets/images/closeencountersofthe3rdkind.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cocoon",
+        "image": "../../public/assets/images/cocoon.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "DARYL",
+        "image": "../../public/assets/images/daryl.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "ET",
+        "image": "../../public/assets/images/ET.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Fire In The Sky",
+        "image": "../../public/assets/images/2001.fireinthesky.png"
+    },
+    {
+        "id": 8,
+        "name": "Flight Of The Navigator",
+        "image": "../../public/assets/images/flightofthenavigator.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Short Circuit",
+        "image": "../../public/assets/images/Johnny5.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Poltergeist",
+        "image": "../../public/assets/images/poltergeist.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Robocop",
+        "image": "../../public/assets/images/robocop.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "The Fly",
+        "image": "../../public/assets/images/thefly.jpeg"
+    }    
+]

@@ -1,0 +1,17 @@
+.navbar {
+  background-color: blueviolet;
+  padding: 1em;
+  color: white;
+  box-shadow: 0 14px 28px black;
+  /* position: fixed; */
+  text-align: center;
+  width: 100%;
+}
+
+#scores-display {
+  /* text-align: right; */
+}
+
+
+
+
